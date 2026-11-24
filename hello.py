@@ -1,4 +1,4 @@
-# Excercise 1 and 2
+# Exercise 2 and 3
 price1 = float(input("Write the first price: "))
 price2 = float(input("Write the second price: "))
 total = price1+price2
